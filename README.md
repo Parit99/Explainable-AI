@@ -13,3 +13,19 @@
 #Exploratory_Data_Analysis(EDA) :
 
 This are list of some EDA techniques useful in given scenarios
+
+
+
+
+
+Explainable AI techniques
+
+#Techniques.ipynb contains
+
+**Conterfactual Examples**
+
+**Adversarial Examples**
+
+**Influential Instances**
+
+**Prototypes And Criticism**
